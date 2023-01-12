@@ -1,7 +1,6 @@
-
 <h1 align="center">Hi 👋, I'm Dor</h1>
 <h3 align="center">A passionate software developer from Israel</h3>
-<img align="left" alt= "coding" width="400" src="https://media.licdn.com/dms/image/C4E03AQFv59ixucauTA/profile-displayphoto-shrink_800_800/0/1643641643534?e=1678924800&v=beta&t=jLd5ukAeW0YushjVCmV9Tgm-m5nCV-YdyYAALeMWmjY">
+<img align="left" alt= "coding" width="300" src="https://media.licdn.com/dms/image/C4E03AQFv59ixucauTA/profile-displayphoto-shrink_800_800/0/1643641643534?e=1678924800&v=beta&t=jLd5ukAeW0YushjVCmV9Tgm-m5nCV-YdyYAALeMWmjY">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=doritos3&label=Profile%20views&color=0e75b6&style=flat" alt="doritos3" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=doritos3" alt="doritos3" /></a> </p>
@@ -22,9 +21,4 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=doritos3&show_icons=true&locale=en&layout=compact" alt="doritos3" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doritos3&show_icons=true&locale=en" alt="doritos3" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=doritos3&" alt="doritos3" /></p>
-
