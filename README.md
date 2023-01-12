@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Dor</h1>
 <h3 align="center">A passionate software developer from Israel</h3>
-<img align="right" alt= "coding" width="400" src="https://media.licdn.com/dms/image/C4E03AQFv59ixucauTA/profile-displayphoto-shrink_800_800/0/1643641643534?e=1678924800&v=beta&t=jLd5ukAeW0YushjVCmV9Tgm-m5nCV-YdyYAALeMWmjY">
+<img align="left" alt= "coding" width="400" src="https://media.licdn.com/dms/image/C4E03AQFv59ixucauTA/profile-displayphoto-shrink_800_800/0/1643641643534?e=1678924800&v=beta&t=jLd5ukAeW0YushjVCmV9Tgm-m5nCV-YdyYAALeMWmjY">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=doritos3&label=Profile%20views&color=0e75b6&style=flat" alt="doritos3" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=doritos3" alt="doritos3" /></a> </p>
