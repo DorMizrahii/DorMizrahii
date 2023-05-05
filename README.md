@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dor</h1>
 <h3 align="center">A passionate software developer from Israel</h3>
-<img align="left" alt= "coding" width="300" src="https://media.licdn.com/dms/image/C4E03AQFv59ixucauTA/profile-displayphoto-shrink_800_800/0/1643641643534?e=1678924800&v=beta&t=jLd5ukAeW0YushjVCmV9Tgm-m5nCV-YdyYAALeMWmjY">
 
 - 🌱 I’m currently learning **Machine Learning Algorithms**
 
